@@ -74,10 +74,3 @@ Ms. P. Jinsha
 
 Developed by:
 Team Hackonautz
-
-📜 License
-
-This project is licensed under the MIT License – see the LICENSE
- file for details.
-
-Would you like me to include a badge section (e.g., Python version, license, build status, etc.) or a preview image section (to show your app UI)?
